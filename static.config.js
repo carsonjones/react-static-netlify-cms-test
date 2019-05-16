@@ -10,8 +10,8 @@ function getPosts() {
   const getFiles = () =>
     new Promise(resolve => {
       // Check if posts directory exists //
-      if (fs.existsSync("./src/posts")) {
-        klaw("./src/posts")
+      if (fs.existsSync("./src/community-service")) {
+        klaw("./src/community-service")
           .on("data", item => {
             // Filter function to retrieve .md files //
             if (path.extname(item.path) === ".md") {
@@ -43,15 +43,19 @@ function getPosts() {
         resolve(items);
       }
     });
-    console.log(items);
-  return getFiles();
+  return getFiles(); 
 }
 
 export default {
+  // siteRoot: '',
+
   getRoutes: async () => {
+
     const { data: posts } = await axios.get(
       "https://jsonplaceholder.typicode.com/posts"
     );
+
+    const test = await getPosts()
 
     return [
       {
@@ -66,6 +70,12 @@ export default {
             post
           })
         }))
+      },
+      {
+        path: "/test",
+        getData: () => ({
+          test
+        }),
       }
     ];
   },
