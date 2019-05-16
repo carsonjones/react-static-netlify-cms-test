@@ -1,0 +1,61 @@
+{
+  "prefetchRate": 5,
+  "maxThreads": null,
+  "disableRoutePrefixing": false,
+  "outputFileRate": 100,
+  "extensions": [
+    ".js",
+    ".jsx"
+  ],
+  "minLoadTime": 200,
+  "disablePreload": false,
+  "disableRuntime": false,
+  "preloadPollInterval": 300,
+  "productionSourceMaps": false,
+  "entry": "index.js",
+  "plugins": [
+    [
+      "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static-plugin-source-filesystem\\node.api.js",
+      {
+        "location": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\src\\pages"
+      }
+    ],
+    "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static-plugin-reach-router\\browser.api.js",
+    "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static-plugin-sitemap\\dist\\node.api.js",
+    "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site"
+  ],
+  "paths": {
+    "ROOT": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site",
+    "SRC": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\src",
+    "DIST": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\dist",
+    "ASSETS": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\dist",
+    "PLUGINS": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\plugins",
+    "TEMP": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\tmp",
+    "ARTIFACTS": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\artifacts",
+    "PUBLIC": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\public",
+    "NODE_MODULES": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules",
+    "EXCLUDE_MODULES": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules",
+    "PACKAGE": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\package.json",
+    "HTML_TEMPLATE": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\dist\\index.html",
+    "STATIC_DATA": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\dist\\staticData"
+  },
+  "siteRoot": "",
+  "basePath": "",
+  "publicPath": "/",
+  "assetsPath": "",
+  "extractCssChunks": false,
+  "inlineCss": false,
+  "babelExcludes": [],
+  "devServer": {
+    "host": "localhost",
+    "port": 3000
+  },
+  "terser": {
+    "terserOptions": {
+      "mangle": {},
+      "parse": {},
+      "compress": {},
+      "output": {}
+    }
+  }
+}
