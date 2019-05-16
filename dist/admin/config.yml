@@ -3,22 +3,15 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
   
 display_url: https://brave-euclid-8d7527.netlify.com
-media_folder: "public/images"
-public_folder: "images"
+media_folder: "public/uploads"
+public_folder: "uploads"
 
 collections:
-  - label: "Blog"
-    name: "blog"
-    folder: "_posts/blog"
+  - label: "Community Service"
+    name: "community-service"
+    folder: "src/community-service"
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
-
-  - label: "Test Type"
-    name: "test"
-    folder: "test-type"
-    create: true
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
