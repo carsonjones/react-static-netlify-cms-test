@@ -2,27 +2,27 @@
   "errors": [],
   "warnings": [],
   "version": "4.31.0",
-  "hash": "9aaa9aa3c9fba7ed75df",
-  "time": 26840,
-  "builtAt": 1557965727751,
+  "hash": "b2ae4021a0a940ac6676",
+  "time": 5439,
+  "builtAt": 1558020283168,
   "publicPath": "/",
   "outputPath": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\dist",
   "assetsByChunkName": {
-    "main": "main.9aaa9aa3.js",
+    "main": "main.b2ae4021.js",
     "src/containers/Post": "templates/src/containers/Post.049c1841.js",
     "src/pages/404": "templates/src/pages/404.150b84cb.js",
     "src/pages/about": "templates/src/pages/about.fa2b6956.js",
     "src/pages/blog": "templates/src/pages/blog.6f59e674.js",
     "src/pages/index": "templates/src/pages/index.f90cc053.js",
     "styles": [
-      "styles.c5218c02.css",
-      "templates/styles.c5218c02.js"
+      "styles.8825b2a2.css",
+      "templates/styles.8825b2a2.js"
     ],
     "vendors~main": "templates/vendors~main.94524d85.js"
   },
   "assets": [
     {
-      "name": "main.9aaa9aa3.js",
+      "name": "main.b2ae4021.js",
       "size": 6513,
       "chunks": [
         0
@@ -33,7 +33,7 @@
       "emitted": true
     },
     {
-      "name": "styles.c5218c02.css",
+      "name": "styles.8825b2a2.css",
       "size": 358,
       "chunks": [
         6
@@ -99,7 +99,7 @@
       "emitted": true
     },
     {
-      "name": "templates/styles.c5218c02.js",
+      "name": "templates/styles.8825b2a2.js",
       "size": 82,
       "chunks": [
         6
@@ -130,10 +130,10 @@
         0
       ],
       "assets": [
-        "styles.c5218c02.css",
-        "templates/styles.c5218c02.js",
+        "styles.8825b2a2.css",
+        "templates/styles.8825b2a2.js",
         "templates/vendors~main.94524d85.js",
-        "main.9aaa9aa3.js"
+        "main.b2ae4021.js"
       ],
       "children": {},
       "childAssets": {}
@@ -147,10 +147,10 @@
         0
       ],
       "assets": [
-        "styles.c5218c02.css",
-        "templates/styles.c5218c02.js",
+        "styles.8825b2a2.css",
+        "templates/styles.8825b2a2.js",
         "templates/vendors~main.94524d85.js",
-        "main.9aaa9aa3.js"
+        "main.b2ae4021.js"
       ],
       "children": {},
       "childAssets": {}
@@ -217,7 +217,7 @@
         "main"
       ],
       "files": [
-        "main.9aaa9aa3.js"
+        "main.b2ae4021.js"
       ],
       "hash": "f28c3ce0c9e67f4e9555",
       "siblings": [
@@ -1444,10 +1444,10 @@
         "styles"
       ],
       "files": [
-        "styles.c5218c02.css",
-        "templates/styles.c5218c02.js"
+        "styles.8825b2a2.css",
+        "templates/styles.8825b2a2.js"
       ],
-      "hash": "c5218c02418a75e7e07e",
+      "hash": "8825b2a2433830b4b937",
       "siblings": [
         0,
         7
@@ -1522,7 +1522,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 4,
-          "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1557965709489\n      var cssReload = require(\"C:/Users/Rob/Thinkful-Projects/my-static-site/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
+          "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1558020281150\n      var cssReload = require(\"C:/Users/Rob/Thinkful-Projects/my-static-site/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
         },
         {
           "id": "",
@@ -2996,9 +2996,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -3570,9 +3570,9 @@
           "chunks": [
             7
           ],
-          "issuer": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "issuerId": 54,
-          "issuerName": "../lib/bootstrapPlugins.js",
+          "issuer": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "issuerId": 115,
+          "issuerName": "../lib/bootstrapTemplates.js",
           "issuerPath": [
             {
               "id": 53,
@@ -3580,9 +3580,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             }
           ],
           "failed": false,
@@ -3695,9 +3695,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -3910,9 +3910,9 @@
           "chunks": [
             7
           ],
-          "issuer": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "issuerId": 54,
-          "issuerName": "../lib/bootstrapPlugins.js",
+          "issuer": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "issuerId": 115,
+          "issuerName": "../lib/bootstrapTemplates.js",
           "issuerPath": [
             {
               "id": 53,
@@ -3920,9 +3920,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             }
           ],
           "failed": false,
@@ -4106,9 +4106,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -4436,9 +4436,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -5419,9 +5419,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -5988,9 +5988,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6054,9 +6054,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6125,9 +6125,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6191,9 +6191,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6257,9 +6257,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6404,9 +6404,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6485,9 +6485,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6571,9 +6571,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6647,9 +6647,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6723,9 +6723,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -8480,9 +8480,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -8542,9 +8542,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -8604,9 +8604,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -8666,9 +8666,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -8723,9 +8723,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -8785,9 +8785,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -8847,9 +8847,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -8909,9 +8909,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -8971,9 +8971,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9043,9 +9043,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9110,9 +9110,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9182,9 +9182,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9259,9 +9259,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9341,9 +9341,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9418,9 +9418,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9495,9 +9495,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9572,9 +9572,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9649,9 +9649,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9726,9 +9726,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9798,9 +9798,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9870,9 +9870,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9947,9 +9947,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10024,9 +10024,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10101,9 +10101,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10168,9 +10168,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10235,9 +10235,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10297,9 +10297,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10364,9 +10364,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10429,9 +10429,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 54,
-              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 115,
+              "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -13744,9 +13744,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -14318,9 +14318,9 @@
       "chunks": [
         7
       ],
-      "issuer": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-      "issuerId": 54,
-      "issuerName": "../lib/bootstrapPlugins.js",
+      "issuer": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+      "issuerId": 115,
+      "issuerName": "../lib/bootstrapTemplates.js",
       "issuerPath": [
         {
           "id": 53,
@@ -14328,9 +14328,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         }
       ],
       "failed": false,
@@ -14443,9 +14443,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -14805,9 +14805,9 @@
       "chunks": [
         7
       ],
-      "issuer": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-      "issuerId": 54,
-      "issuerName": "../lib/bootstrapPlugins.js",
+      "issuer": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+      "issuerId": 115,
+      "issuerName": "../lib/bootstrapTemplates.js",
       "issuerPath": [
         {
           "id": 53,
@@ -14815,9 +14815,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         }
       ],
       "failed": false,
@@ -15001,9 +15001,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -15331,9 +15331,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -16545,9 +16545,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17177,9 +17177,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17243,9 +17243,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17314,9 +17314,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17380,9 +17380,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17446,9 +17446,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17593,9 +17593,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17674,9 +17674,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17760,9 +17760,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17836,9 +17836,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17912,9 +17912,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20110,9 +20110,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20172,9 +20172,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20234,9 +20234,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20296,9 +20296,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20353,9 +20353,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20415,9 +20415,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20477,9 +20477,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20539,9 +20539,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20601,9 +20601,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20673,9 +20673,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20740,9 +20740,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20812,9 +20812,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20889,9 +20889,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20971,9 +20971,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21048,9 +21048,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21125,9 +21125,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21202,9 +21202,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21279,9 +21279,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21356,9 +21356,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21428,9 +21428,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21500,9 +21500,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21577,9 +21577,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21654,9 +21654,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21731,9 +21731,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21798,9 +21798,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21865,9 +21865,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21927,9 +21927,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21994,9 +21994,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -22059,9 +22059,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 54,
-          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 115,
+          "identifier": "C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\Rob\\Thinkful-Projects\\my-static-site\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -24174,7 +24174,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 4,
-      "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1557965709489\n      var cssReload = require(\"C:/Users/Rob/Thinkful-Projects/my-static-site/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
+      "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1558020281150\n      var cssReload = require(\"C:/Users/Rob/Thinkful-Projects/my-static-site/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
     },
     {
       "id": "",
