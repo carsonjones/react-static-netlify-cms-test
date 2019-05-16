@@ -26,6 +26,17 @@ export default {
       'https://jsonplaceholder.typicode.com/posts'
     )
 
+    var fs = require('fs');
+    fs.readdir('documentation', function(err, files){
+      if (err) {
+        console.error("Could not list the directory.", err);
+        return;
+      }
+      console.log(files)
+
+    })
+
+
     return [
       {
         path: '/blog',
