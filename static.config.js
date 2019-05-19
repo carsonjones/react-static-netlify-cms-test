@@ -1,17 +1,19 @@
 import path from "path";
 import axios from "axios";
-const fs = require("fs");
-const klaw = require("klaw");
-const matter = require("gray-matter");
+//for reading local files
+import fs  from "fs";
+import klaw from "klaw";
+import matter from "gray-matter";
 
 function getPosts() {
   const items = [];
   // Walk ("klaw") through posts directory and push file paths into items array //
   const getFiles = () =>
     new Promise(resolve => {
-      // Check if posts directory exists //
-      if (fs.existsSync("./src/community-service")) {
-        klaw("./src/community-service")
+      // Check if test-collect directory exists //
+      // This is the folder where your CMS collection we made earlier will store it's content. Creating a post inside this collection will add a "test-collection" directory to your repo for you.
+      if (fs.existsSync("./src/test-collection")) {
+        klaw("./src/test-collection")
           .on("data", item => {
             // Filter function to retrieve .md files //
             if (path.extname(item.path) === ".md") {
@@ -47,10 +49,14 @@ function getPosts() {
 }
 
 export default {
-  // siteRoot: '',
 
+  // resolves an array of route objects 
   getRoutes: async () => {
 
+    // this is where you can make requests for data that will be needed for all
+    // routes or multiple routes - values returned can then be reused in route objects below
+
+    // starter template has a request to an endpoint that retrieves an array of fake blog posts
     const { data: posts } = await axios.get(
       "https://jsonplaceholder.typicode.com/posts"
     );
@@ -58,14 +64,22 @@ export default {
     const test = await getPosts()
 
     return [
+      // route object
       {
+        // React Static looks for files in src/pages (line 94) and matches them to path
         path: "/blog",
+        // function that returns data for this specific route
         getData: () => ({
           posts
         }),
+        // an array of children routes
+        // in this case we are mapping through the blog posts from the post variable above
+        // and setting a custom route for each one based off their post id
         children: posts.map(post => ({
           path: `/post/${post.id}`,
+          // location of template for child route
           template: "src/containers/Post",
+          // passing the individual post data needed
           getData: () => ({
             post
           })
@@ -79,6 +93,7 @@ export default {
       }
     ];
   },
+  // basic template default plugins
   plugins: [
     [
       require.resolve("react-static-plugin-source-filesystem"),

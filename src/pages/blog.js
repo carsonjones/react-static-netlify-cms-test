@@ -1,11 +1,12 @@
 import React from 'react'
+// provides the route's data
 import { useRouteData } from 'react-static'
-//
 import { Link } from 'components/Router'
 
+// making a ul of links to all of the individual blog posts
 export default function Blog() {
   const { posts } = useRouteData()
-  return (
+  return ( 
     <div>
       <h1>It's blog time.</h1>
       <div>
@@ -18,6 +19,7 @@ export default function Blog() {
       <ul>
         {posts.map(post => (
           <li key={post.id}>
+            {/* linking to individual post routes set by children property of /blog route */}
             <Link to={`/blog/post/${post.id}/`}>{post.title}</Link>
           </li>
         ))}
