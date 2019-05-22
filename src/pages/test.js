@@ -1,16 +1,19 @@
 import React from "react";
 import { useRouteData } from "react-static";
+import { Link } from 'components/Router'
 
 export default function Test() {
   const { test } = useRouteData();
-  console.log(test);
+  console.log(test)
   return (
-    <div>
+    <ul>
       {test.map((item, index)=>{
           return (
-              <div key={index}>{item.content}</div>
+              <li key={index}>   
+                <Link to={`/test/${item.data.slug}`}>{item.data.title}</Link>
+              </li>
           )
       })}
-    </div>
+    </ul>
   );
 }

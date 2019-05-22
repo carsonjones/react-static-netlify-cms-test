@@ -8,7 +8,8 @@ export default {
 '../src/pages/blog.js': require('../src/pages/blog.js').default,
 '../src/pages/index.js': require('../src/pages/index.js').default,
 '../src/pages/test.js': require('../src/pages/test.js').default,
-'../src/containers/Post': require('../src/containers/Post').default
+'../src/containers/Post': require('../src/containers/Post').default,
+'../src/containers/Test-Post': require('../src/containers/Test-Post').default
 }
 
 export const notFoundTemplate = '../src/pages/404.js'
